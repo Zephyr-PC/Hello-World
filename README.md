@@ -1,2 +1,8 @@
 # Hello-World
-Blantantly obvious
+Blantantly obvious 
+<hr>
+Something
+<hr>
+Something
+<hr>
+Something
